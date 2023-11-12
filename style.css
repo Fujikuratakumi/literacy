@@ -1,1 +1,13 @@
 em{ color: green; }
+em{ color: blue; }
+
+{ color: white; 
+         background: orange;}
+
+
+td{
+  border: 1px solid black;
+}
+
+le{border-collapse: collapse; }
+
